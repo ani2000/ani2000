@@ -5,7 +5,7 @@
 **Architect | CTO | Full-Stack Mercenary**
 
 > 「まっすぐ自分の言葉は曲げねぇ。それが俺の忍道だ」
-> *(I never go back on my word. That's my ninja way.)*
+> *(I never go back on my word.)*
 
 </div>
 
